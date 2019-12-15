@@ -1,3 +1,3 @@
 # hello-world
 
-I am coding in C# and Python for the last six years, but just now, I am starting to make my contributions in online environments as GitHub and Stack Overflow.
+I have been coding for 6 years in C# and Python, but just now, I am starting to make my contributions in online environments as GitHub and Stack Overflow.
